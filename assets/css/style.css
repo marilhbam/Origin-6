@@ -51,7 +51,6 @@ body{
     border-bottom: 1px solid #e4e4e4;
     margin-bottom: 2rem;
     display: flex;
- 
     position: fixed;
     top: 0;
     left: 0;
@@ -150,7 +149,7 @@ nav .icon-close{
     right: 1.5rem;
     transition: 0.2s;
 }
-nav .show div.icon-close{
+nav .show .icon-close{
     visibility: visible;
     opacity: 1;
     top: 1.5rem;
