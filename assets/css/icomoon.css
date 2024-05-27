@@ -13,7 +13,7 @@
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak-as: never;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -41,13 +41,13 @@
   content: "\e903";
 }
 .icon-mail:before {
-  content: "\e906";
+  content: "\e904";
 }
 .icon-map-pin:before {
   content: "\e905";
 }
 .icon-menu:before {
-  content: "\e904";
+  content: "\e906";
 }
 .icon-trim:before {
   content: "\e908";
